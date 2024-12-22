@@ -17,7 +17,7 @@ This application uses the [rembg](https://pypi.org/project/rembg/) model for bac
 ## Tech Stack
 
 ### Frontend
-- Next.js 14
+- Next.js 15
 - TypeScript
 - Tailwind CSS
 - Shadcn UI Components
