@@ -2,7 +2,6 @@
 
 A web application that removes backgrounds from images using a Next.js frontend and Flask backend. Upload single or multiple images and download the processed results with transparent backgrounds.
 
-Built at [LangTrace](https://langtrace.ai) by [Karthik Kalyanaraman](https://x.com/karthikkalyan90).
 
 This application uses the [rembg](https://pypi.org/project/rembg/) model for background removal. Rembg is an open-source tool that uses deep learning to remove image backgrounds.
 
